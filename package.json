@@ -1,0 +1,15 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viviana luzvivianacobaleda@gmail.com",
+  "license": "ISC"
+}
